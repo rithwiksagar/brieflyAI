@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@vectorize-io/hindsight-client": "^0.5.3",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1",
+    "openai": "^6.34.0"
+  },
+  "name": "meet-prep-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hindSight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
